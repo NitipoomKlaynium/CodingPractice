@@ -1,0 +1,9 @@
+{
+    "exclude": [
+      "test.ts",
+      "**/*.spec.ts"
+    ],
+    "compilerOptions": {
+        "esModuleInterop" : true
+    },
+}
