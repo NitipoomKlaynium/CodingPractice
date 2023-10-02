@@ -1,0 +1,15 @@
+E:\workspace\CodingPractice\CS\bin\Debug\net7.0\CS.exe
+E:\workspace\CodingPractice\CS\bin\Debug\net7.0\CS.deps.json
+E:\workspace\CodingPractice\CS\bin\Debug\net7.0\CS.runtimeconfig.json
+E:\workspace\CodingPractice\CS\bin\Debug\net7.0\CS.dll
+E:\workspace\CodingPractice\CS\bin\Debug\net7.0\CS.pdb
+E:\workspace\CodingPractice\CS\obj\Debug\net7.0\CS.csproj.AssemblyReference.cache
+E:\workspace\CodingPractice\CS\obj\Debug\net7.0\CS.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\CodingPractice\CS\obj\Debug\net7.0\CS.AssemblyInfoInputs.cache
+E:\workspace\CodingPractice\CS\obj\Debug\net7.0\CS.AssemblyInfo.cs
+E:\workspace\CodingPractice\CS\obj\Debug\net7.0\CS.csproj.CoreCompileInputs.cache
+E:\workspace\CodingPractice\CS\obj\Debug\net7.0\CS.dll
+E:\workspace\CodingPractice\CS\obj\Debug\net7.0\refint\CS.dll
+E:\workspace\CodingPractice\CS\obj\Debug\net7.0\CS.pdb
+E:\workspace\CodingPractice\CS\obj\Debug\net7.0\CS.genruntimeconfig.cache
+E:\workspace\CodingPractice\CS\obj\Debug\net7.0\ref\CS.dll
